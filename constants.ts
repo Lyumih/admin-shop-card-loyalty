@@ -10,7 +10,7 @@ export const HOME_LINK: LinkProps = {
 
 export const PAGE_LINKS: Array<LinkProps> = [
   {
-    label: "Магазин", 
+    label: "Зарегистрировать магазин", 
     href: "/shop"
   }
 ]
